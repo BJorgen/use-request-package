@@ -1,0 +1,22 @@
+{
+  "name": "use-request-package",
+  "version": "1.0.0",
+  "description": "HTTP requests with the request package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BJorgen/use-request-package.git"
+  },
+  "author": "Britta Jorgenson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BJorgen/use-request-package/issues"
+  },
+  "homepage": "https://github.com/BJorgen/use-request-package#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
